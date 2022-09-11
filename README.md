@@ -1,7 +1,8 @@
 
 <p allign="center">
 <img align="center" alt="logouts" src="https://PapayawhipStainedProperties.gyarugirl.repl.co/small.png" />
-# Roblox-Extension-Logger
+  
+## Roblox-Extension-Logger
 
 "fake" based extension logger for stupid beamers written using JS. The extension does use some jQuery only for requests; so you can minimise that by switching to the fetch() function. 
 
