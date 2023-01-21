@@ -9,5 +9,4 @@ there's an article on how to upload an extension, read that: https://developer.c
 
 ## How to get hits..???
 
-ion know bru <:(
-By the way, star the repo (rn)
+Go to some Adopt Me servers, there's a shitload of them just roaming with little kids around.
