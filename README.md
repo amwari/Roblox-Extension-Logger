@@ -1,6 +1,4 @@
 
-<p allign="center">
-<img align="center" alt="logouts" src="https://PapayawhipStainedProperties.gyarugirl.repl.co/small.png" />
   
 ## Roblox-Extension-Logger
 
